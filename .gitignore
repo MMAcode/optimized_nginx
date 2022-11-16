@@ -35,3 +35,8 @@ npm-debug.log
 
 # Ignore secrets file
 /config/*.secret.exs
+
+# Miro added:
+.DS_Store
+mix.lock
+package-lock.json
