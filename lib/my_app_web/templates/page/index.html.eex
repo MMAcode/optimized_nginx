@@ -1,6 +1,6 @@
 <section class="phx-hero">
   <h1><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h1>
-  <p>Peace of mind from prototype to production Miroooo</p>
+  <p>Peace of mind from prototype to production Miro2.0</p>
 </section>
 
 <section class="row">
